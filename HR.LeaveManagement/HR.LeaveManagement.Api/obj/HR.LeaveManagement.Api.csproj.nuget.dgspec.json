@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj": {}
+  },
+  "projects": {
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj",
+        "projectName": "HR.LeaveManagement.Api",
+        "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj",
+        "packagesPath": "/home/dawit/.nuget/packages/",
+        "outputPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
+              },
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj"
+              },
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/HR.LeaveManagement.Infrastructure.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/HR.LeaveManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
+        "projectName": "HR.LeaveManagement.Application",
+        "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
+        "packagesPath": "/home/dawit/.nuget/packages/",
+        "outputPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
+        "projectName": "HR.LeaveManagement.Domain",
+        "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
+        "packagesPath": "/home/dawit/.nuget/packages/",
+        "outputPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj",
+        "projectName": "HR.LeaveManagement.Persistence",
+        "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj",
+        "packagesPath": "/home/dawit/.nuget/packages/",
+        "outputPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/HR.LeaveManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/HR.LeaveManagement.Infrastructure.csproj",
+        "projectName": "HR.LeaveManagement.Infrastructure",
+        "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/HR.LeaveManagement.Infrastructure.csproj",
+        "packagesPath": "/home/dawit/.nuget/packages/",
+        "outputPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+                "projectPath": "/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.24.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

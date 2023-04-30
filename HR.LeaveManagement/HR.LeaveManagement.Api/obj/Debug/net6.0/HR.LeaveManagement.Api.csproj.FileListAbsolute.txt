@@ -1,0 +1,133 @@
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/appsettings.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.exe
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.deps.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.runtimeconfig.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/FluentValidation.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/MediatR.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/MediatR.Contracts.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/SendGrid.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/StarkbankEcdsa.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Application.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Domain.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Persistence.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Application.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Persistence.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Domain.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.AssemblyReference.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.AssemblyInfoInputs.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.AssemblyInfo.cs
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.CoreCompileInputs.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets/msbuild.HR.LeaveManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets/msbuild.build.HR.LeaveManagement.Api.props
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.HR.LeaveManagement.Api.props
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.HR.LeaveManagement.Api.props
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.CopyComplete
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/refint/HR.LeaveManagement.Api.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.genruntimeconfig.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/ref/HR.LeaveManagement.Api.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Humanizer.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Npgsql.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/appsettings.Development.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/appsettings.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.deps.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.runtimeconfig.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/ref/HR.LeaveManagement.Api.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Api.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/AutoMapper.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/FluentValidation.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Humanizer.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/MediatR.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/MediatR.Contracts.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Npgsql.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/SendGrid.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/StarkbankEcdsa.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Application.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Domain.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Persistence.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Application.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Persistence.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/HR.LeaveManagement.Domain.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.AssemblyReference.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.AssemblyInfoInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.AssemblyInfo.cs
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.CoreCompileInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets.build.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/staticwebassets.development.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.csproj.CopyComplete
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/ref/HR.LeaveManagement.Api.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/obj/Debug/net6.0/HR.LeaveManagement.Api.genruntimeconfig.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Mono.TextTemplating.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/System.CodeDom.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/System.Text.Json.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll

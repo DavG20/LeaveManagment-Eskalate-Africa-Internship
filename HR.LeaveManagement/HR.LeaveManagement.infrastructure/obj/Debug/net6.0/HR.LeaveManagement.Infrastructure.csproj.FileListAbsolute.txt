@@ -1,0 +1,34 @@
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.deps.json
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Application.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Domain.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Application.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Domain.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/refint/HR.LeaveManagement.Infrastructure.dll
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb
+C:/Users/envy 12th/source/repos/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/ref/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.deps.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/ref/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Application.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Domain.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Application.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/bin/Debug/net6.0/HR.LeaveManagement.Domain.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/ref/HR.LeaveManagement.Infrastructure.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.infrastructure/obj/Debug/net6.0/HR.LeaveManagement.Infrastructure.pdb

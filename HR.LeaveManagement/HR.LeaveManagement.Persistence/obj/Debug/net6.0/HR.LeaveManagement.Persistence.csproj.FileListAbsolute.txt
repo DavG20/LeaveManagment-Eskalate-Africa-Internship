@@ -1,0 +1,17 @@
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Persistence.deps.json
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Persistence.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/ref/HR.LeaveManagement.Persistence.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Persistence.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Application.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Domain.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Application.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/bin/Debug/net6.0/HR.LeaveManagement.Domain.pdb
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.AssemblyInfo.cs
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.csproj.CopyComplete
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/ref/HR.LeaveManagement.Persistence.dll
+/home/dawit/DavG/A2SV/Eskalate_Internship/Eskalate-Backend-Learning-Track_2/HR.LeaveManagement/HR.LeaveManagement.Persistence/obj/Debug/net6.0/HR.LeaveManagement.Persistence.pdb

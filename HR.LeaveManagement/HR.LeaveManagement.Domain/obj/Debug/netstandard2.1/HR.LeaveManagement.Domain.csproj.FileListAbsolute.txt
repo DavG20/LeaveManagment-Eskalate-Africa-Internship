@@ -1,0 +1,10 @@
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.deps.json
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb

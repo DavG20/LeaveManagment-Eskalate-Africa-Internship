@@ -1,0 +1,13 @@
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Users\envy 12th\source\repos\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
